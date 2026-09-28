@@ -1,4 +1,4 @@
-# the-big-vault
+# The Big Vault
 
 The Big Vault is a full-stack cloud file management application that allows users to securely upload, organize, manage, and share files.
 
